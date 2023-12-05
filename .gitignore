@@ -148,7 +148,6 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
-
 # Cython debug symbols
 cython_debug/
 
@@ -158,3 +157,15 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+neuro_env
+data
+data.zip
+.DS_Store
+all_data.zip
+derivatives/*
+derivatives
+InSpePosNegData/*
+GitHub.copilot-1.137.557.vsix
+wallentin_nbs/*
+FaceWordData/*
